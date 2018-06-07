@@ -3,7 +3,7 @@
 Magiks Module to systemlessly replace the stock Android Emoji with WhatsApp Emoji.
 
 ## Preview
-![Emoji Preview](https://i.imgur.com/HNK17XP.png)
+![Emoji Preview](https://i.imgur.com/t1chrKQ.png)
 
 Click [here](https://emojipedia.org/whatsapp/) to see all emojis in this pack.
 
@@ -33,7 +33,7 @@ Click [here](https://emojipedia.org/whatsapp/) to see all emojis in this pack.
 6. After rebooting the emojis should be installed.
 
 ## How it works?
-The stock android font found in */system/fonts/NotoColorEmoji.ttf* is replaced with the WhatsApp font file compiled by me. ~~The system font configuration file */system/etc/fonts.xml* is also modified so that the emoji font is loaded first.~~
+The stock android font found in */system/fonts/NotoColorEmoji.ttf* is replaced with the WhatsApp font file compiled by [me](https://forum.xda-developers.com/member.php?u=8020000).
 
 ## Links
 - [Magisk XDA Forum Thread](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
