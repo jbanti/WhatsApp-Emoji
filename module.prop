@@ -1,0 +1,7 @@
+id=magisk-whatsapp-emoji
+name=WhatsApp Emoji
+version=1.0
+versionCode=1
+author=ilivss
+description=Systemlessly replace the stock Android Emoji with WhatsApp Emoji.
+minMagisk=1500
