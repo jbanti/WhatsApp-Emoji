@@ -3,7 +3,7 @@
 Magiks Module to systemlessly replace the stock Android Emoji with WhatsApp Emoji.
 
 ## Preview
-![Emoji Preview](https://i.imgur.com/t1chrKQ.png)
+![Emoji Preview](https://i.imgur.com/wJ8A38t.png)
 
 Click [here](https://emojipedia.org/whatsapp/) to see all emojis in this pack.
 
@@ -11,7 +11,7 @@ Click [here](https://emojipedia.org/whatsapp/) to see all emojis in this pack.
 - Rooted with [Magisk](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
 - [Magisk Manager](https://github.com/topjohnwu/MagiskManager/releases/) installed.
 
-*__Note:__ Tested on the OnePlus 6 running Android 8.1.0/OxygenOS 5.1.5 with Magisk v16.4 (Beta). Your mileage may vary.*
+*__Note:__ Tested on the OnePlus 6 running Android 8.1.0/OxygenOS 5.1.5 with Magisk v16.4 (Beta).*
 
 ## Instructions
 #### Option 1
@@ -33,13 +33,14 @@ Click [here](https://emojipedia.org/whatsapp/) to see all emojis in this pack.
 6. After rebooting the emojis should be installed.
 
 ## How it works?
-The stock android font found in */system/fonts/NotoColorEmoji.ttf* is replaced with the WhatsApp font file compiled by [me](https://forum.xda-developers.com/member.php?u=8020000).
+The stock android font found in *"/system/fonts/NotoColorEmoji.ttf"* is replaced with the WhatsApp font file compiled by [me](https://forum.xda-developers.com/member.php?u=8020000).
 
 ## Links
 - [Magisk XDA Forum Thread](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
 - [Magisk Manager](https://github.com/topjohnwu/MagiskManager/releases/)
 - [Module XDA Forum Thread](url)
 - [Manual ZIP Download](url)
+- [Flashable ZIP Download](url)
 - [GitHub Module Page](https://github.com/Magisk-Modules-Repo/Magisk-WhatsApp-Emoji)
 - [Bug Report](https://github.com/Magisk-Modules-Repo/Magisk-WhatsApp-Emoji/issues/new)
 - [Donate](https://www.paypal.me/ilivss/5)
