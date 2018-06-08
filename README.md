@@ -29,8 +29,8 @@ Click [here](https://emojipedia.org/whatsapp/) to see all emojis in this pack.
 3. Tap on the *__+__* button at the bottom of the screen.
 4. Navigate to the downloaded ZIP and select it.
 5. Wait a moment to finish installing.
-5. When finished tap on *REBOOT*.
-6. After rebooting the emojis should be installed.
+6. When finished tap on *REBOOT*.
+7. After rebooting the emojis should be installed.
 
 ## How it works?
 The stock android font found in *"/system/fonts/NotoColorEmoji.ttf"* is replaced with the WhatsApp font file compiled by [me](https://forum.xda-developers.com/member.php?u=8020000).

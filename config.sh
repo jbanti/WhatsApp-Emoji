@@ -43,6 +43,7 @@ print_modname() {
   ui_print "*******************************"
   ui_print "         Magisk Module         "
   ui_print "        WhatsApp Emoji         "
+  ui_print "           by ilivss           "
   ui_print "*******************************"
 }
 
