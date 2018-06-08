@@ -33,7 +33,7 @@ Click [here](https://emojipedia.org/whatsapp/) to see all emojis in this pack.
 7. After rebooting the emojis should be installed.
 
 ## How it works?
-The stock android font found in *"/system/fonts/NotoColorEmoji.ttf"* is replaced with the WhatsApp font file compiled by [me](https://forum.xda-developers.com/member.php?u=8020000).
+The stock android font found in *"/system/fonts/NotoColorEmoji.ttf"* is replaced with the WhatsApp font file.
 
 ## Links
 - [Magisk XDA Forum Thread](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
