@@ -48,8 +48,11 @@ The stock Android (*"/system/fonts/NotoColorEmoji.ttf"*) and Samsung (*"/system/
 - [Donate](https://www.paypal.me/ilivss/5)
 
 ## Changelog
-#### Version 1.1
+#### Version 1.2
 - Added Samsung Support
+
+#### Version 1.1
+- Small Changes
 
 #### Version 1.0
 - Initial Release
