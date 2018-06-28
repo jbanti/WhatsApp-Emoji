@@ -8,7 +8,7 @@ Magiks Module to systemlessly replace the stock Android Emoji with WhatsApp Emoj
 Click [here](https://emojipedia.org/whatsapp/) to see all emojis in this pack.
 
 ## Compatibility
-- Works on Stock Android and Samsung roms.
+- Works on stock Android and Samsung roms.
 
 ## Requirements
 - Rooted with [Magisk](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445).
