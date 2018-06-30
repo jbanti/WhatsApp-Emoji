@@ -27,7 +27,7 @@ Click [here](https://emojipedia.org/whatsapp/) to see all emojis in this pack.
 
 
 #### Option 2
-1. Download the ZIP from [here](https://forum.xda-developers.com/devdb/project/?id=27859#downloads).
+1. Download the ZIP from [here](https://github.com/Magisk-Modules-Repo/WhatsApp-Emoji/releases/tag/1.2).
 2. Inside Magisk Manager go to the *Modules* section.
 3. Tap on the *__+__* button at the bottom of the screen.
 4. Navigate to the downloaded ZIP and select it.
@@ -43,16 +43,16 @@ The stock Android (*"/system/fonts/NotoColorEmoji.ttf"*) and Samsung (*"/system/
 - [Magisk Manager](https://github.com/topjohnwu/MagiskManager/releases/)
 - [Module XDA Forum Thread](https://forum.xda-developers.com/android/development/magisk-whatsapp-emoji-t3809892)
 - [GitHub Module Page](https://github.com/Magisk-Modules-Repo/WhatsApp-Emoji/blob/master/README.md)
-- [Manual ZIP Download](https://forum.xda-developers.com/devdb/project/?id=27859#downloads)
+- [Manual ZIP Download](https://github.com/Magisk-Modules-Repo/WhatsApp-Emoji/releases/tag/1.2)
 - [Bug Report](https://github.com/Magisk-Modules-Repo/WhatsApp-Emoji/issues/new)
 - [Donate](https://www.paypal.me/ilivss/5)
 
 ## Changelog
 #### Version 1.2
-- Added Samsung Support
+- Added Samsung support
 
 #### Version 1.1
-- Small Changes
+- Small changes
 
 #### Version 1.0
-- Initial Release
+- Initial release
