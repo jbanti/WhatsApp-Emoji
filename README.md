@@ -42,7 +42,7 @@ The stock Android (*"/system/fonts/NotoColorEmoji.ttf"*) and Samsung (*"/system/
 - [Magisk XDA Forum Thread](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
 - [Magisk Manager](https://github.com/topjohnwu/MagiskManager/releases/)
 - [Module XDA Forum Thread](https://forum.xda-developers.com/android/development/magisk-whatsapp-emoji-t3809892)
-- [GitHub Module Page](https://github.com/Magisk-Modules-Repo/WhatsApp-Emoji/blob/master/README.md)
+- [Module GitHub Page](https://github.com/Magisk-Modules-Repo/WhatsApp-Emoji/blob/master/README.md)
 - [Manual ZIP Download](https://github.com/Magisk-Modules-Repo/WhatsApp-Emoji/releases/tag/1.2)
 - [Bug Report](https://github.com/Magisk-Modules-Repo/WhatsApp-Emoji/issues/new)
 - [Donate](https://www.paypal.me/ilivss/5)
